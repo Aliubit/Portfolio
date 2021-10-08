@@ -35,22 +35,6 @@ The app includes the following services:
 </p>
 
 
-## RTA - MONITORING & ENFORCEMENT (Mobile Application)
-[RTA-MES](https://drive.google.com/drive/folders/1BHkeMLWhtGAlF685Eo0eVmrhFbbBA05E) MES Mobile application used by RTA Inspectors to perform their daily inspections.
-◦ Multiple user interfaces and dashboards (Inspectors, Supervisors, Directors. ◦ Search and Filter inspections.
-◦ User Profile Management.
-◦ Dashboards and Visual Reports.
-◦ Notifications
-◦ Printing fine receipt with Bluetooth Printer. ◦ Offline Mode.
-
-##### 🔨Technologies: Ionic 3, Cordova, Push Notifications, Sqlite, REST API, ZPL (Zebra bluetooth printer connectivity).
-##### 🚀Platform: 📱Android, Tablet.
-<p align="center">
-<a href="https://drive.google.com/drive/folders/1BHkeMLWhtGAlF685Eo0eVmrhFbbBA05E" target="_blank"><img src="Images/MES.png" width="900" title="MES"></a>
-</p>
-
-
-
 ## Hear2Rise
 [Hear2Rise](https://apps.apple.com/us/app/hear2rise/id1162237802?app=itunes) An audio recording app in which users can login and create decks and their custom cards (Audios) and their proper syncing with server. Used core data for local data storage.
 
@@ -72,3 +56,17 @@ The app includes the following services:
 </p>
 
 
+
+## RTA - MONITORING & ENFORCEMENT (Mobile Application)
+[RTA-MES](https://drive.google.com/drive/folders/1BHkeMLWhtGAlF685Eo0eVmrhFbbBA05E) MES Mobile application used by RTA Inspectors to perform their daily inspections.
+◦ Multiple user interfaces and dashboards (Inspectors, Supervisors, Directors. ◦ Search and Filter inspections.
+◦ User Profile Management.
+◦ Dashboards and Visual Reports.
+◦ Notifications
+◦ Printing fine receipt with Bluetooth Printer. ◦ Offline Mode.
+
+##### 🔨Technologies: Ionic 3, Cordova, Push Notifications, Sqlite, REST API, ZPL (Zebra bluetooth printer connectivity).
+##### 🚀Platform: 📱Android, Tablet.
+<p align="center">
+<a href="https://drive.google.com/drive/folders/1BHkeMLWhtGAlF685Eo0eVmrhFbbBA05E" target="_blank"><img src="Images/MES.png" width="900" title="MES"></a>
+</p>
