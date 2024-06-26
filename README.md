@@ -1,3 +1,24 @@
+## Yale Home
+
+[Yale Home](https://apps.apple.com/ae/app/yale-home/id1670570711) Yale Home offers everyday convenience and reliable security for home with smart security solutions. It is developed to help users protect the things that matter most to them.
+
+##### 🔨Technologies: SWIFT, SwiftUI, MVVM, Push Notifications, REST API, Pubsub channels, Location services.
+##### 🚀Platform: 📱iOS, iPad.
+
+
+
+
+
+## IKEA Shoppable app
+
+[IKEA Shoppable app](https://apps.apple.com/us/app/ikea/id1452164827?uo=4&at=11l6hc&ct=fnd) Ikea shoppable app is a mobile application built on swiftUI and server driven UI paradigm, using this application users can shop at Ikea using their smartphones.
+
+##### 🔨Technologies: SWIFT, SwiftUI, MVVM, Push Notifications, REST API, Firebase.
+##### 🚀Platform: 📱iOS, iPad.
+
+
+
+
 ## MY ETISALAT UAE
 
 [Etisalat](https://apps.apple.com/us/app/my-etisalat-%20uae/id866147547?app=itunes&ign-mpt=uo%3D4) My Etisalat app is used to manage all your Etisalat account, monitor the usage of all the packages and add ons you are subscribed to, enjoy a variety of personalized deals, subscribe instantly to your favorite Etisalat data, roaming call internet and TV packages and much more.
